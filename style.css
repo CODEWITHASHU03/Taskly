@@ -417,13 +417,15 @@ p {
     }
 
     #pick-date-time {
-        width: 100%;
-        max-width: none;
+        width: auto;
+        max-width: 220px;
+        align-self: center;
     }
 
     .task-input button {
-        width: 100%;
-        max-width: none;
+        width: auto;
+        max-width: 220px;
+        align-self: center;
     }
 
     .task {
