@@ -1,0 +1,16 @@
+{
+    "name": "Taskly",
+    "short_name": "Taskly",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#0f172a",
+    "description": "Plan. Do. Done.",
+    "icons": [
+        {
+            "src": "./logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
