@@ -57,12 +57,12 @@ No frameworks. Just the basics, built up step by step.
 # Project Files
 
 Taskly/
- index.html
- style.css
- script.js
- manifest.json
- service-worker.js
- logo.png
+ index.html,
+ style.css,
+ script.js,
+ manifest.json,
+ service-worker.js,
+ logo.png.
 
 # What I Learned
 
@@ -84,7 +84,7 @@ For future versions, I'd like to explore:
 * Backend integration
 * A more advanced version of the app
 
-But for now, **V1 is shipped.** 🚀
+But for now, V1 is shipped.
 
 # About
 
